@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/recipeapp/static/css/main.42300d1c.css",
+    "main.js": "/recipeapp/static/js/main.bf3e6804.js",
+    "static/media/suman-modified.png": "/recipeapp/static/media/suman-modified.c0cc66b35ad61d1e58e7.png",
+    "static/media/home-banner-image.png": "/recipeapp/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/recipeapp/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/recipeapp/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/recipeapp/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/recipeapp/index.html",
+    "main.42300d1c.css.map": "/recipeapp/static/css/main.42300d1c.css.map",
+    "main.bf3e6804.js.map": "/recipeapp/static/js/main.bf3e6804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.bf3e6804.js"
+  ]
+}
